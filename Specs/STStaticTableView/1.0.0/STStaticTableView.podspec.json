@@ -4,10 +4,6 @@
     "summary": "static table view",
     "description": "This view is static table view",
     "homepage": "https://github.com/MarkeJave/STStaticTableView",
-    "license": {
-        "type": "MIT",
-        "file": "LICENSE"
-    },
     "authors": {
         "Joe": "308865427@qq.com"
     },
