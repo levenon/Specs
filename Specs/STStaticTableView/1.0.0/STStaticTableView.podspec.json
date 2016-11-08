@@ -20,6 +20,6 @@
     "tag": "1.0.0"
   },
   "source_files": [
-    "STStaticTableView/*.{h,m}",
+    "STStaticTableView/*.{h,m}"
   ]
 }
