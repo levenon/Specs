@@ -1,0 +1,21 @@
+{
+    "name": "XLFCommonKit",
+    "version": "1.0.12",
+    "summary": "My common kit",
+    "description": "This view is my common kit",
+    "homepage": "https://github.com/MarkeJave/XLFCommonKit",
+    "license": "MIT",
+    "authors": {
+        "Joe": "308865427@qq.com"
+    },
+    "social_media_url": "https://github.com/MarkeJave",
+    "platforms": {
+        "ios": "7.0"
+    },
+    "source": {
+        "git": "https://github.com/MarkeJave/XLFCommonKit.git",
+        "tag": "1.0.12"
+    },
+    "source_files": ["XLFCommonKit/*.{h,m}"],
+    "exclude_files": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "MantleExtension",
+    "version": "1.0.0",
+    "summary": "Mantle extensions",
+    "description": "This view is Mantle extensions",
+    "homepage": "https://github.com/MarkeJave/MantleExtension",
+    "license": "MIT",
+    "authors": {
+        "Joe": "308865427@qq.com"
+    },
+    "social_media_url": "https://github.com/MarkeJave",
+    "platforms": {
+        "ios": "8.0"
+    },
+    "source": {
+        "git": "https://github.com/MarkeJave/MantleExtension.git",
+        "tag": "1.0.0"
+    },
+    "source_files": ["MantleExtension/*.{h,m}"],
+    "exclude_files": ""
+}
