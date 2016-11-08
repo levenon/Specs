@@ -16,6 +16,10 @@
         "git": "https://github.com/MarkeJave/XLFCommonKit.git",
         "tag": "1.0.12"
     },
-    "source_files": ["XLFCommonKit/*.{h,m}"],
-    "exclude_files": ""
+    "requires_arc": true,
+    "source_files": ["CommonClass/*.{h,m}", "CommonClass/**/*.{h,m}", "CommonClass/XLFCommonKit.h"],
+    "frameworks": ["CoreText", "QuartzCore", "MobileCoreServices", "CoreFoundation", "CoreGraphics", "UIKit", "CFNetwork", "Security", "SystemConfiguration", "AVFoundation", "Foundation"],
+    "xcconfig": {
+        "OTHER_LDFLAGS": "-ObjC -licucore"
+    }
 }
