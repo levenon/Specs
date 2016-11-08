@@ -1,0 +1,21 @@
+{
+    "name": "PopupOverlayer",
+    "version": "1.0.0",
+    "summary": "popup over layer view",
+    "description": "This view is popup over layer view",
+    "homepage": "https://github.com/MarkeJave/PopupOverlayer",
+    "license": "MIT",
+    "authors": {
+        "Joe": "308865427@qq.com"
+    },
+    "social_media_url": "https://github.com/MarkeJave",
+    "platforms": {
+        "ios": "7.0"
+    },
+    "source": {
+        "git": "https://github.com/MarkeJave/PopupOverlayer.git",
+        "tag": "1.0.0"
+    },
+    "source_files": ["PopupOverlayer/*.{h,m}"],
+    "exclude_files": ""
+}
