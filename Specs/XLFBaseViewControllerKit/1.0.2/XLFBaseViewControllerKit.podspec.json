@@ -1,0 +1,21 @@
+{
+    "name": "XLFBaseViewControllerKit",
+    "version": "1.0.2",
+    "summary": "base view controller kit",
+    "description": "This view is base view controller kit",
+    "homepage": "https://github.com/MarkeJave/XLFBaseViewControllerKit",
+    "license": "MIT",
+    "authors": {
+        "Joe": "308865427@qq.com"
+    },
+    "social_media_url": "https://github.com/MarkeJave",
+    "platforms": {
+        "ios": "7.0"
+    },
+    "source": {
+        "git": "https://github.com/MarkeJave/XLFBaseViewControllerKit.git",
+        "tag": "1.0.2"
+    },
+    "requires_arc": true,
+    "source_files": ["BaseViewController/*.{h,m}", "BaseViewController/**/*.{h,m}"]
+}
