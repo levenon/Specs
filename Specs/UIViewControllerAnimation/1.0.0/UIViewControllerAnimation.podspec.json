@@ -17,5 +17,5 @@
         "tag": "1.0.0"
     },
     "requires_arc": true,
-    "source_files": ["UIViewControllerAnimation/*.{h,m}"]
+    "source_files": ["UIViewControllerAnimation/*.{h,m}", "UIViewControllerAnimation/**/*.{h,m}"]
 }
