@@ -6,7 +6,7 @@
     "homepage": "https://github.com/MarkeJave/XLFViewControllerAnimationKit",
     "license": "MIT",
     "authors": {
-        "Joe": "308865427@qq.com"
+        "MarkeJave": "308865427@qq.com"
     },
     "social_media_url": "https://github.com/MarkeJave",
     "platforms": {
@@ -17,5 +17,5 @@
         "tag": "1.0.0"
     },
     "requires_arc": true,
-    "source_files": ["UIViewControllerAnimation/*.{h,m}", "UIViewControllerAnimation/**/*.{h,m}"]
+    "source_files": ["UIViewControllerAnimation/*.{h,m}"]
 }
