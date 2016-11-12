@@ -1,0 +1,21 @@
+{
+    "name": "LimitTextInput",
+    "version": "1.0.0",
+    "summary": "limit text input",
+    "description": "This is limit text input",
+    "homepage": "https://github.com/MarkeJave/LimitTextInput",
+    "license": "MIT",
+    "authors": {
+        "MarkeJave": "308865427@qq.com"
+    },
+    "social_media_url": "https://github.com/MarkeJave",
+    "platforms": {
+        "ios": "7.0"
+    },
+    "source": {
+        "git": "https://github.com/MarkeJave/LimitTextInput.git",
+        "tag": "1.0.0"
+    },
+    "requires_arc": true,
+    "source_files": ["LimitTextInput/*.{h,m}"]
+}
