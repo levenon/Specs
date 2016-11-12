@@ -17,5 +17,6 @@
         "tag": "1.0.0"
     },
     "requires_arc": true,
-    "source_files": ["LimitTextInput/*.{h,m}"]
+    "source_files": ["LimitTextInput/*.{h,m}"],
+    "private_header_files": ["LimitTextInput/Private/*.{h,m}"]
 }
