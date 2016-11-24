@@ -1,0 +1,24 @@
+{
+    "name": "AsyncDisplayKit-Extensions",
+    "version": "1.0.0",
+    "summary": "AsyncDisplayKit Extensions",
+    "description": "This is AsyncDisplayKit Extensions",
+    "homepage": "https://github.com/MarkeJave/CategoryKit",
+    "license": "MIT",
+    "authors": {
+        "MarkeJave": "308865427@qq.com"
+    },
+    "social_media_url": "https://github.com/MarkeJave",
+    "platforms": {
+        "ios": "7.0"
+    },
+    "source": {
+        "git": "https://github.com/MarkeJave/AsyncDisplayKit-Extensions.git",
+        "tag": "1.0.0"
+    },
+    "requires_arc": true,
+    "source_files": ["*.{h,m}"],
+    "dependencies": {
+        "AsyncDisplayKit": [ "~> 1.9.92" ]
+    }
+}

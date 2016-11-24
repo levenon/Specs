@@ -17,5 +17,7 @@
         "tag": "1.0.0"
     },
     "source_files": ["MantleExtension/*.{h,m}"],
-    "exclude_files": ""
+    "dependencies": {
+        "Mantle": [ "~> 2.0.7" ]
+    }
 }
