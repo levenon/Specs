@@ -1,0 +1,21 @@
+{
+    "name": "CategoryKit",
+    "version": "1.0.1",
+    "summary": "common categories kit",
+    "description": "This is common categories kit",
+    "homepage": "https://github.com/MarkeJave/CategoryKit",
+    "license": "MIT",
+    "authors": {
+        "MarkeJave": "308865427@qq.com"
+    },
+    "social_media_url": "https://github.com/MarkeJave",
+    "platforms": {
+        "ios": "7.0"
+    },
+    "source": {
+        "git": "https://github.com/MarkeJave/CategoryKit.git",
+        "tag": "1.0.1"
+    },
+    "requires_arc": true,
+    "source_files": ["CategoryKit/*.{h,m}"]
+}
