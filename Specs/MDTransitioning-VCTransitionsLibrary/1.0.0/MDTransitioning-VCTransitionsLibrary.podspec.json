@@ -20,6 +20,9 @@
     "dependencies": {
         "MDTransitioning": [
             "~> 1.0.0"
+        ],
+        "VCTransitionsLibrary": [
+            "~> 1.5.0"
         ]
     }
 }
