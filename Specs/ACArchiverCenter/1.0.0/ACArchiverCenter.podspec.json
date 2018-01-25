@@ -1,0 +1,20 @@
+{
+    "name": "ACArchiverCenter",
+    "version": "1.0.0",
+    "summary": "archive object into file.",
+    "description": "archive object into file.",
+    "homepage": "https://github.com/MarkeJave/ACArchiverCenter",
+    "license": "MIT",
+    "authors": {
+        "MarkeJave": "308865427@qq.com"
+    },
+    "social_media_url": "https://github.com/MarkeJave",
+    "platforms": {
+        "ios": "7.0"
+    },
+    "source": {
+        "git": "https://github.com/MarkeJave/ACArchiverCenter.git",
+        "tag": "1.0.0"
+    },
+    "source_files": ["ACArchiverCenter/*.{h,m}"]
+}
